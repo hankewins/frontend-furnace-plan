@@ -19,9 +19,11 @@
 
 # IDE开发工具
 
-- [Visual Studio Code](https://code.visualstudio.com/)(推荐)
-- [Atom](https://atom.io/)(推荐)
-- [Sublime Text](https://www.sublimetext.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)（推荐）
+- [Atom](https://atom.io/)（推荐）
+- [Sublime Text](https://www.sublimetext.com/)（推荐）
+- [Notepad++](https://notepad-plus-plus.org/)（windows下一款很棒的文本编辑器）
+- [WebStorm](http://www.jetbrains.com/webstorm/)（jetbrains出品必出精品，很强大的一款web开发编辑器）
 
 # 新手入门学习站点
 
@@ -72,13 +74,13 @@
 
 # 实用工具
 
-- [百度网盘](https://pan.baidu.com/)
-- [有道词典](http://cidian.youdao.com/)
-- [有道云笔记](http://note.youdao.com/)
-- [石墨文档](https://shimo.im/)
-- [LICEcap](https://www.cockos.com/licecap/)(跨平台的git动画效果录屏工具)
-- [XMind](https://www.xmind.cn/)(很受欢迎的思维导图软件)
-- [ProcessOn](https://www.processon.com/)(很好用的免费在线作图平台)
-- [smallpdf](https://smallpdf.com/)(提供各种文档在线转换)
+- [百度网盘](https://pan.baidu.com/)（文件存储和多端同步）
+- [有道词典](http://cidian.youdao.com/)（很不错的一个跨平台翻译软件）
+- [有道云笔记](http://note.youdao.com/)（跨平台、大容量、易操作的云笔记）
+- [石墨文档](https://shimo.im/)（可多人实时协作的云端文档与表格）
+- [LICEcap](https://www.cockos.com/licecap/)（跨平台的git动画效果录屏工具）
+- [XMind](https://www.xmind.cn/)（很受欢迎的思维导图软件）
+- [ProcessOn](https://www.processon.com/)（很好用的免费在线作图平台）
+- [smallpdf](https://smallpdf.com/)（提供各种文档在线转换）
 
 持续更新中...
