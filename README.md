@@ -65,12 +65,27 @@
 - [less](http://lesscss.org/)
 - [stylus](http://stylus-lang.com/)
 
-# 前端构件工具
+# 构件工具
 
 - [Grunt](https://gruntjs.com/)
 - [Gulp](https://gulpjs.com/)
 - [Webpack](https://webpack.js.org/)
 - [Parcel](https://parceljs.org/)
+
+# 代码类
+
+- [JsBin](http://jsbin.com/)（在线代码编辑）
+- [Codepen](https://codepen.io/pens/)（在线代码编辑）
+- [Regexper](https://regexper.com/)（正则表达式，在线可视化）
+- [Visualgo](https://visualgo.net/zh)（数据结构，在线可视化）
+- [Asciiflow](http://asciiflow.com/)（代码注释图形，在线制作）
+
+# 图片类
+
+- [标你妹](http://www.biaonimeia.com/login)（标注工具：上传psd自动生成标注）
+- [Photoshop](https://www.adobe.com/cn/products/photoshop.html?promoid=YFRVGMH9&mv=other)（大家都在用的PS软件）
+- [Sketch](http://www.sketchcn.com/)（mac上最好用的PS软件，可导出带标注的设计稿）
+- [iconfont](http://www.iconfont.cn/) (国内较好的字体图标库)
 
 # 实用工具
 
